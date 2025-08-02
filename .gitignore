@@ -1,0 +1,26 @@
+# Unreal Engine files to ignore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.tmp
+*.log
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio files
+.vscode/
+*.code-workspace
